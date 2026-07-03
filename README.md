@@ -1,2 +1,0 @@
-# chatbot
-Python chatbot AI 
